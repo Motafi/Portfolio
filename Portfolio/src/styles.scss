@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+.header{
+  display: flex;
+  justify-content: center;
+  background-color: gray;
+  padding-bottom: 2%;
+  align-items: center;
+}
+
+p{
+  margin: auto;
+  color: beige;
+}
