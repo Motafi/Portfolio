@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { HeaderComponent } from './header-component/header/header.component';
 import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [];
